@@ -7,9 +7,9 @@ const NewMeetup = () => {
     fetch(
       'https://react-first-860f2-default-rtdb.firebaseio.com/meetups.json',
       {
-        method: 'POST',
+        method: 'POST', 
         body: JSON.stringify(addMeetupData),
-        headers: {
+        headers: { 
           'Content-Type': 'application/json'
         }
       }

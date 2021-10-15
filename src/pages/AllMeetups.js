@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import Cart from '../components/Cart'
-import { ThemeColor } from '../components/ThemeColor';
+import { ThemeColor  } from '../components/ThemeColor';
 
 const AllMeetups = (props) => {
   const {
@@ -23,7 +23,7 @@ const AllMeetups = (props) => {
         >
         <button onClick={handleChangeContext}>ddd</button>
             <h1> {meetup.title} </h1>
-            <img
+            <img 
               src = {meetup.image} 
               className = "meetup-img" 
               alt = {meetup.title}
