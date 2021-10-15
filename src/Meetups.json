@@ -1,0 +1,21 @@
+[
+    {
+      "id": "m1",
+      "title": "This is a first meetup.",
+      "image": "https://eg24.de/bilder/AB6Nlh1501limited-edition-4.jpg",
+      "description": "This is for children using Game."
+    },
+    {
+      "id": "m2",
+      "title": "This is a second meetup.",
+      "image": "https://eg24.de/bilder/G4wG050301110eu3.jpg",
+      "description": "This is shoese for Men. Cheep shoese and very nice."
+    },
+    {
+      "id": "m3",
+      "title": "This is a third meetup.",
+      "image": "https://phplinx.shop/demo/php09/assets/img/header_slider/BlackFriday2.jpeg",
+      "description": "Blue berry and better tast. Childrens like this always."
+    }
+]
+

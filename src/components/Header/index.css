@@ -1,0 +1,27 @@
+header{
+  padding:10px 100px;
+  background-color: rgb(126, 1, 1);
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-bottom: 20px;
+}
+.site-title{
+  font-size: 30px;
+  font-weight: 600;
+}
+.nav-menu{
+  display: inherit;
+}
+.nav-menu li{
+  list-style: none;
+}
+.nav-link{
+  font-size: 21px;
+  color: white;
+  margin: 5px 20px;
+  text-decoration: none;
+}
+.nav-link:hover{
+  color: red;
+}
